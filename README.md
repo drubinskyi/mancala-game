@@ -14,7 +14,7 @@ Application is easy to run using following command:
 ```
 ./gradlew bootRun
 ```
-#Swagger API documentation
+## Swagger API documentation
 ```
 http://localhost:8080/swagger-ui.html
 ```
